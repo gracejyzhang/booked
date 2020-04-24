@@ -1,0 +1,10 @@
+Data/
+
+__pycache__/
+
+booked-out-844dc0c72c42.json
+
+Functions/*
+!Functions/functions
+Functions/functions/*
+!Functions/functions/index.js
